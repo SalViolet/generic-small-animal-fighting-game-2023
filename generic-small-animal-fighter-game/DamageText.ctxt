@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DamageText
+comment0.text=\n\ Write\ a\ description\ of\ class\ DamageText\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ DamageText\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=score\ x\ y
+comment2.target=DamageText(int,\ int,\ int)
+numComments=3

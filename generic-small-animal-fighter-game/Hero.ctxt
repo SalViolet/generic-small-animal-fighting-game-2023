@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Hero
+comment0.text=\n\ Write\ a\ description\ of\ class\ heroIGuess\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Hero()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ heroIGuess\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=MyWorld\ getWorld()
+comment4.params=
+comment4.target=int\ callPeta()
+comment5.params=
+comment5.target=int\ potion()
+comment6.params=
+comment6.target=void\ showHeroDamage()
+comment7.params=
+comment7.target=int\ sword()
+comment8.params=damage
+comment8.target=void\ attack(int)
+comment9.params=damage
+comment9.target=void\ heal(int)
+numComments=10
